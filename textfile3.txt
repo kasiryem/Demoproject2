@@ -1,1 +1,3 @@
 I enjoy working with git and github
+
+i intend to use git and github for almost everything
